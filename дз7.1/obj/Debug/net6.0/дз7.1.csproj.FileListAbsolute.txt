@@ -1,0 +1,15 @@
+C:\Users\Катя\Desktop\др5 с шарп\дз7.1\bin\Debug\net6.0\дз7.1.exe
+C:\Users\Катя\Desktop\др5 с шарп\дз7.1\bin\Debug\net6.0\дз7.1.deps.json
+C:\Users\Катя\Desktop\др5 с шарп\дз7.1\bin\Debug\net6.0\дз7.1.runtimeconfig.json
+C:\Users\Катя\Desktop\др5 с шарп\дз7.1\bin\Debug\net6.0\дз7.1.dll
+C:\Users\Катя\Desktop\др5 с шарп\дз7.1\bin\Debug\net6.0\дз7.1.pdb
+C:\Users\Катя\Desktop\др5 с шарп\дз7.1\obj\Debug\net6.0\дз7.1.csproj.AssemblyReference.cache
+C:\Users\Катя\Desktop\др5 с шарп\дз7.1\obj\Debug\net6.0\дз7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\Desktop\др5 с шарп\дз7.1\obj\Debug\net6.0\дз7.1.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\др5 с шарп\дз7.1\obj\Debug\net6.0\дз7.1.AssemblyInfo.cs
+C:\Users\Катя\Desktop\др5 с шарп\дз7.1\obj\Debug\net6.0\дз7.1.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\др5 с шарп\дз7.1\obj\Debug\net6.0\дз7.1.dll
+C:\Users\Катя\Desktop\др5 с шарп\дз7.1\obj\Debug\net6.0\refint\дз7.1.dll
+C:\Users\Катя\Desktop\др5 с шарп\дз7.1\obj\Debug\net6.0\дз7.1.pdb
+C:\Users\Катя\Desktop\др5 с шарп\дз7.1\obj\Debug\net6.0\дз7.1.genruntimeconfig.cache
+C:\Users\Катя\Desktop\др5 с шарп\дз7.1\obj\Debug\net6.0\ref\дз7.1.dll
