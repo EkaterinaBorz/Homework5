@@ -1,0 +1,15 @@
+C:\Users\Катя\Desktop\др5 с шарп\дз8.3\bin\Debug\net6.0\дз8.3.exe
+C:\Users\Катя\Desktop\др5 с шарп\дз8.3\bin\Debug\net6.0\дз8.3.deps.json
+C:\Users\Катя\Desktop\др5 с шарп\дз8.3\bin\Debug\net6.0\дз8.3.runtimeconfig.json
+C:\Users\Катя\Desktop\др5 с шарп\дз8.3\bin\Debug\net6.0\дз8.3.dll
+C:\Users\Катя\Desktop\др5 с шарп\дз8.3\bin\Debug\net6.0\дз8.3.pdb
+C:\Users\Катя\Desktop\др5 с шарп\дз8.3\obj\Debug\net6.0\дз8.3.csproj.AssemblyReference.cache
+C:\Users\Катя\Desktop\др5 с шарп\дз8.3\obj\Debug\net6.0\дз8.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Катя\Desktop\др5 с шарп\дз8.3\obj\Debug\net6.0\дз8.3.AssemblyInfoInputs.cache
+C:\Users\Катя\Desktop\др5 с шарп\дз8.3\obj\Debug\net6.0\дз8.3.AssemblyInfo.cs
+C:\Users\Катя\Desktop\др5 с шарп\дз8.3\obj\Debug\net6.0\дз8.3.csproj.CoreCompileInputs.cache
+C:\Users\Катя\Desktop\др5 с шарп\дз8.3\obj\Debug\net6.0\дз8.3.dll
+C:\Users\Катя\Desktop\др5 с шарп\дз8.3\obj\Debug\net6.0\refint\дз8.3.dll
+C:\Users\Катя\Desktop\др5 с шарп\дз8.3\obj\Debug\net6.0\дз8.3.pdb
+C:\Users\Катя\Desktop\др5 с шарп\дз8.3\obj\Debug\net6.0\дз8.3.genruntimeconfig.cache
+C:\Users\Катя\Desktop\др5 с шарп\дз8.3\obj\Debug\net6.0\ref\дз8.3.dll
